@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid {
+    margin-bottom: 15px;
+}
+#home1 p img {
+    padding-right: 10px;
+}
+#home1 p img {
+    float: left;
+
+
+
+
+}
+#accordion1 .card #headingOne1 {
+    background-color: #F1E044;
+}
+
+
+#clothingnav1 .nav-item #hometab1 {
+    background-color: #F54CE5;
+    color: #FFFFFF;
+}
+#clothingnav1 .nav-item #hatstab1 {
+    background-color: #F33CD5;
+    color: #F4F4F4;
+}
+.container-fluid #accordion1 .card {
+}
+
+
+
+
+
+#paneTwo1 p img {
+    padding-right: 10px;
+    float: left;
+}
+#home1 p strong {
+}
+
+.card-body p img {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 200px;
+    margin-right: 0px;
+}
+.card-body p img {
+    padding-left: px;
+    margin-left: 400px;
+}
+.card-body p img {
+    float: left;
+}
+.card-body p img {
+    float: none;
+
+
+
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+#clothingnav1 .nav-item.dropdown .nav-link.dropdown-toggle {
+    padding-top: 10px;
+}
+ima1 {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+ima2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: none;
+}
+notas {
+    margin-right: 10px;
+    margin-left: 10px;
+}
